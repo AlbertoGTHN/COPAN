@@ -1,0 +1,30 @@
+From: notifications@linkedin.com
+To: professional@outlook.com
+Subject: You have a new connection request
+Date: Wed, 15 Apr 2026 14:00:00 +0000
+Message-ID: <msg0006.193@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0006"
+
+--bound0006
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Sarah,
+
+Ana Gutierrez (Senior Product Designer at Fintech Corp) wants to
+connect with you on LinkedIn.
+
+View profile: https://www.linkedin.com/in/ana-gutierrez-design
+
+The LinkedIn Team
+
+--bound0006
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi Sarah,</p><p><strong>Ana Gutierrez</strong> (Senior Product Designer
+    at Fintech Corp) wants to connect with you on LinkedIn.</p>
+    <p><a href="https://www.linkedin.com/in/ana-gutierrez-design">View profile</a></p></body></html>
+
+--bound0006--

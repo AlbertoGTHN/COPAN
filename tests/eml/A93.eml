@@ -1,0 +1,34 @@
+From: verify@chase-banking-secure.com
+To: client@yahoo.com
+Subject: Chase: Identity verification required
+Date: Sat, 11 Jul 2026 10:00:00 +0000
+Message-ID: <msg0093.2890@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0093"
+
+--bound0093
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Valued Client,
+
+As part of our ongoing security procedures, we are required to
+verify the identity of all account holders. Please complete
+verification within 48 hours.
+
+Verify identity: http://chase-banking-secure.com/idv?cust=CHZ8821
+
+Failure to verify may result in restricted account access.
+
+Chase Security Operations
+
+--bound0093
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Client,</p>
+    <p>Identity verification required within <strong>48 hours</strong>.</p>
+    <p><a href="http://chase-banking-secure.com/idv?cust=CHZ8821">Verify now</a></p>
+    </body></html>
+
+--bound0093--

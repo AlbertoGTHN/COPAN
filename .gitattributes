@@ -1,0 +1,11 @@
+* text=auto
+*.eml text eol=lf
+*.sh text eol=lf
+*.cmd text eol=crlf
+*.bat text eol=crlf
+*.pkl binary
+*.pt binary
+*.pth binary
+*.pdf binary
+*.png binary
+*.jpg binary

@@ -1,0 +1,31 @@
+From: noreply@whatsapp-verify-account.com
+To: user@gmail.com
+Subject: WhatsApp: Verify your phone number
+Date: Tue, 09 Jun 2026 13:00:00 +0000
+Message-ID: <msg0061.1898@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0061"
+
+--bound0061
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+WhatsApp requires you to re-verify your phone number to continue
+using the service. Failure to verify will result in account deactivation.
+
+Verify here: http://whatsapp-verify-account.com/verify?num=+15551234567
+
+WhatsApp Support
+
+--bound0061
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hello,</p>
+    <p>Re-verify your WhatsApp number or face <strong>account deactivation</strong>.</p>
+    <p><a href="http://whatsapp-verify-account.com/verify?num=+15551234567">Verify now</a></p>
+    </body></html>
+
+--bound0061--

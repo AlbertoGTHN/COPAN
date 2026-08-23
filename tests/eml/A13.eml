@@ -1,0 +1,35 @@
+From: delivery@dhl-parcel-support.com
+To: recipient@outlook.com
+Subject: Parcel on hold — customs fee required
+Date: Wed, 22 Apr 2026 14:00:00 +0000
+Message-ID: <msg0013.410@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0013"
+
+--bound0013
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Customer,
+
+Your DHL parcel (tracking: JD014600006281480070) is currently on
+hold at customs. A fee of $3.49 must be paid before we can release
+your shipment.
+
+Pay now: http://dhl-parcel-support.com/customs?ref=JD0146
+
+Failure to pay within 48 hours will result in return to sender.
+
+DHL Express Customer Service
+
+--bound0013
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Customer,</p>
+    <p>Your DHL parcel is on hold at customs. Pay a fee of <strong>$3.49</strong>
+    to release it.</p>
+    <p><a href="http://dhl-parcel-support.com/customs?ref=JD0146">Pay customs fee</a></p>
+    </body></html>
+
+--bound0013--

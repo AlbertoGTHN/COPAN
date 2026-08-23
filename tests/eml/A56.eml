@@ -1,0 +1,36 @@
+From: updates@medium.com
+To: reader@gmail.com
+Subject: Stories we think you'll enjoy this week
+Date: Thu, 04 Jun 2026 15:00:00 +0000
+Message-ID: <msg0056.1743@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0056"
+
+--bound0056
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Based on your reading history, here are this week's top picks:
+
+- "The Hidden Cost of Microservices" by Jane Kim
+- "Why GraphQL Won" by Alex Rodriguez
+- "Burnout in Engineering Teams" by Dr. Priya Nair
+
+Read on Medium: https://medium.com/
+
+Medium Daily Digest
+
+--bound0056
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>This week's top picks on Medium:</p>
+    <ul><li>"The Hidden Cost of Microservices"</li>
+    <li>"Why GraphQL Won"</li>
+    <li>"Burnout in Engineering Teams"</li></ul>
+    <p><a href="https://medium.com/">Read now</a></p>
+    </body></html>
+
+--bound0056--

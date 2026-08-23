@@ -1,0 +1,35 @@
+From: noreply@zoom.us
+To: colleague@company.com
+Subject: Maria Lopez is inviting you to a scheduled Zoom meeting
+Date: Tue, 21 Apr 2026 13:00:00 +0000
+Message-ID: <msg0012.379@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0012"
+
+--bound0012
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Maria Lopez is inviting you to a scheduled Zoom meeting.
+
+Topic: Q2 Budget Planning
+Time: Apr 18, 2026 02:00 PM Central Time
+Meeting ID: 812 4567 3901
+Passcode: xT7q9K
+
+Join: https://zoom.us/j/81245673901?pwd=xT7q9K
+
+Zoom Communications
+
+--bound0012
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p><strong>Maria Lopez</strong> is inviting you to a Zoom meeting.</p>
+    <p>Topic: Q2 Budget Planning<br>Time: Apr 18, 2026 2:00 PM CT</p>
+    <p><a href="https://zoom.us/j/81245673901?pwd=xT7q9K">Join Zoom Meeting</a></p>
+    </body></html>
+
+--bound0012--

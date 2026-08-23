@@ -1,0 +1,35 @@
+From: claim@lottery-international-fund.com
+To: winner@outlook.com
+Subject: You have won €500,000 in the International E-Lottery
+Date: Mon, 01 Jun 2026 12:00:00 +0000
+Message-ID: <msg0053.1650@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0053"
+
+--bound0053
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+CONGRATULATIONS!
+
+Your email address was selected as the winner of €500,000 in the
+2026 International E-Lottery promotional draw.
+
+To claim your winnings, contact our claims office:
+Email: claims@lottery-international-fund.com
+Reference: ELT-2026-WINNER-7729
+
+A processing fee of €350 is required to release the funds.
+
+International E-Lottery Foundation
+
+--bound0053
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>CONGRATULATIONS!</p>
+    <p>You've won <strong>€500,000</strong> in the International E-Lottery!</p>
+    <p>Processing fee: €350 to release funds.</p>
+    </body></html>
+
+--bound0053--

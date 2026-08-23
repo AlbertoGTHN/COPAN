@@ -1,0 +1,34 @@
+From: security@steam-help-center.info
+To: gamer@gmail.com
+Subject: Your Steam account is at risk
+Date: Tue, 12 May 2026 13:00:00 +0000
+Message-ID: <msg0033.1030@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0033"
+
+--bound0033
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Steam User,
+
+Someone attempted to access your Steam account from an unknown
+location. To protect your games and wallet balance, verify
+your identity now.
+
+Verify here: http://steam-help-center.info/verify?acct=SteamGrd9
+
+Your account will be locked if not verified in 1 hour.
+
+Steam Support
+
+--bound0033
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Steam User,</p>
+    <p>Your account is at risk. Verify identity to protect it.</p>
+    <p><a href="http://steam-help-center.info/verify?acct=SteamGrd9">Verify now</a></p>
+    </body></html>
+
+--bound0033--

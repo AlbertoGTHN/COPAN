@@ -1,0 +1,35 @@
+From: noreply@todoist.com
+To: productive@gmail.com
+Subject: You completed 47 tasks this week!
+Date: Fri, 12 Jun 2026 09:00:00 +0000
+Message-ID: <msg0064.1991@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0064"
+
+--bound0064
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Great job this week!
+
+You completed 47 tasks — your best week ever!
+
+Top project: Work (31 tasks)
+Karma points earned: 680
+Current streak: 12 days
+
+Keep going: https://todoist.com/app
+
+Todoist
+
+--bound0064
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Great work this week!</p>
+    <p>You completed <strong>47 tasks</strong> — your personal best!</p>
+    <p>Karma earned: 680 | Streak: 12 days</p>
+    <p><a href="https://todoist.com/app">Keep going</a></p>
+    </body></html>
+
+--bound0064--

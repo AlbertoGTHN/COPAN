@@ -1,0 +1,33 @@
+From: security@bankofamerica-service.info
+To: customer@gmail.com
+Subject: Your debit card has been temporarily blocked
+Date: Sat, 30 May 2026 10:00:00 +0000
+Message-ID: <msg0051.1588@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0051"
+
+--bound0051
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Customer,
+
+For your protection, your Bank of America debit card ending in 4471
+has been temporarily blocked following a suspicious transaction.
+
+Unblock your card: http://bankofamerica-service.info/unblock?card=4471
+
+Please verify your identity within 2 hours to restore card access.
+
+Bank of America Fraud Prevention
+
+--bound0051
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Customer,</p>
+    <p>Your debit card ending in <strong>4471</strong> has been blocked.</p>
+    <p><a href="http://bankofamerica-service.info/unblock?card=4471">Unblock card</a></p>
+    </body></html>
+
+--bound0051--

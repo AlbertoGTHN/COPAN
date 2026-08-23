@@ -1,0 +1,36 @@
+From: drive-shares-noreply@googledrive-docs.info
+To: victim@gmail.com
+Subject: A document has been shared with you
+Date: Fri, 24 Apr 2026 09:00:00 +0000
+Message-ID: <msg0015.472@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0015"
+
+--bound0015
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+John Smith (jsmith.work91@gmail.com) has shared a document with you:
+
+"Q1 Financial Report — CONFIDENTIAL"
+
+View document: http://googledrive-docs.info/view?id=1BxTy9Zk&auth=open
+
+This document contains sensitive information. Please review and
+confirm receipt.
+
+Google Drive
+
+--bound0015
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi,</p>
+    <p><strong>John Smith</strong> shared a document with you:</p>
+    <p><em>"Q1 Financial Report — CONFIDENTIAL"</em></p>
+    <p><a href="http://googledrive-docs.info/view?id=1BxTy9Zk&auth=open">View document</a></p>
+    </body></html>
+
+--bound0015--

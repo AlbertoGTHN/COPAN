@@ -1,0 +1,36 @@
+From: shipment-update@amazon.com
+To: customer@gmail.com
+Subject: Your order has shipped
+Date: Fri, 17 Apr 2026 09:00:00 +0000
+Message-ID: <msg0008.255@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0008"
+
+--bound0008
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello David,
+
+Good news! Your order #114-9283710-0042 has shipped and is on
+its way.
+
+Estimated delivery: April 17, 2026
+Carrier: UPS
+Tracking: 1Z999AA10123456784
+
+Track your package: https://www.amazon.com/gp/your-account/order-history
+
+Thank you for shopping with us.
+Amazon
+
+--bound0008
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hello David,</p><p>Your order <strong>#114-9283710-0042</strong>
+    has shipped!</p><p>Estimated delivery: April 17, 2026 | Carrier: UPS</p>
+    <p><a href="https://www.amazon.com/gp/your-account/order-history">Track your package</a></p>
+    </body></html>
+
+--bound0008--

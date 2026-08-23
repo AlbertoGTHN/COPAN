@@ -1,0 +1,37 @@
+Received: from webmail-gateway.privatemail.xyz (unknown [103.224.55.18])
+        by mx.example.com with ESMTP id bec001
+        for <user@example.com>; Fri, 19 Jan 2025 16:30:00 -0500
+Authentication-Results: mx.example.com;
+       dkim=none;
+       spf=none smtp.mailfrom=j.anderson.ceo@privatemail.xyz;
+       dmarc=none header.from=privatemail.xyz
+From: James Anderson CEO <j.anderson.ceo@privatemail.xyz>
+Reply-To: j.anderson.private@gmail.com
+To: user@example.com
+Subject: Confidential - Wire Transfer Needed Today
+Date: Fri, 19 Jan 2025 16:30:00 -0500
+Message-ID: <bec-wire-transfer-9912@privatemail.xyz>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+I need you to handle an urgent and confidential wire transfer today. I'm currently in a board meeting and cannot make calls right now.
+
+Please process a wire transfer of $47,500 to the following account:
+
+Bank: First National Bank
+Account Name: Meridian Consulting LLC
+Routing: 021000021
+Account: 8834-2291-5567
+
+This is for a confidential acquisition deal that needs to close by end of business today. Do not discuss this with anyone else on the team until the deal is finalized.
+
+Please confirm once the transfer is initiated. Time is critical.
+
+Thanks,
+James Anderson
+Chief Executive Officer
+Acme Corporation
+
+Sent from my iPhone

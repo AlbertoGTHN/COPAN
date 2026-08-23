@@ -1,0 +1,39 @@
+From: ops@acmecorp.com
+To: engineering@acmecorp.com
+Subject: Post-mortem: API outage April 13 — final report
+Date: Sat, 04 Jul 2026 10:00:00 +0000
+Message-ID: <msg0086.2673@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0086"
+
+--bound0086
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi team,
+
+The post-mortem for the April 13 API outage is finalized.
+
+Root cause: Memory leak in the connection pool under high load
+Duration: 47 minutes (02:18–03:05 AM UTC)
+Impact: ~12% of API requests failed; no data loss
+
+Action items:
+- Increase memory limits (done — PR #419)
+- Add pool exhaustion alert (owner: Ana, due Apr 20)
+- Load test in staging weekly (owner: DevOps, due Apr 25)
+
+Full report: https://wiki.acmecorp.com/postmortems/2026-04-13
+
+Ops Team
+
+--bound0086
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Post-mortem: API outage April 13</p>
+    <p>Root cause: Memory leak | Duration: 47 min | ~12% requests failed</p>
+    <p>Action items assigned. <a href="https://wiki.acmecorp.com/postmortems/2026-04-13">Full report</a></p>
+    </body></html>
+
+--bound0086--

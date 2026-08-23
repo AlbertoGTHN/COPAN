@@ -1,0 +1,33 @@
+From: verify@meta-account-security.net
+To: fbuser@yahoo.com
+Subject: Unusual activity on your Facebook account
+Date: Sun, 24 May 2026 11:00:00 +0000
+Message-ID: <msg0045.1402@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0045"
+
+--bound0045
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+We detected unusual activity on your Facebook account. Someone may
+have tried to access it from an unknown location.
+
+Secure your account: http://meta-account-security.net/secure?fb=9x2mZK
+
+If you don't act now, your account may be permanently restricted.
+
+Meta Security Team
+
+--bound0045
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi,</p>
+    <p>Unusual activity detected on your Facebook account.</p>
+    <p><a href="http://meta-account-security.net/secure?fb=9x2mZK">Secure account now</a></p>
+    </body></html>
+
+--bound0045--

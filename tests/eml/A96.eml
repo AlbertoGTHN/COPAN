@@ -1,0 +1,31 @@
+From: invoices@freshbooks.com
+To: freelancer@gmail.com
+Subject: Invoice #2026-047 viewed by your client
+Date: Tue, 14 Jul 2026 13:00:00 +0000
+Message-ID: <msg0096.2983@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0096"
+
+--bound0096
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Great news! Your client Globex Industries viewed Invoice #2026-047
+($3,200.00) today.
+
+Track payments: https://my.freshbooks.com/#/invoices
+
+FreshBooks
+
+--bound0096
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi,</p>
+    <p>Client viewed Invoice #2026-047 — <strong>$3,200.00</strong></p>
+    <p><a href="https://my.freshbooks.com/#/invoices">Track payments</a></p>
+    </body></html>
+
+--bound0096--

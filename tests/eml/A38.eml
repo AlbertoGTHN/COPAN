@@ -1,0 +1,31 @@
+From: noreply@duolingo.com
+To: learner@gmail.com
+Subject: You're on a 30-day streak!
+Date: Sun, 17 May 2026 11:00:00 +0000
+Message-ID: <msg0038.1185@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0038"
+
+--bound0038
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Felicidades!
+
+You've kept your Duolingo streak alive for 30 days in a row!
+Keep practicing Spanish to reach the next milestone.
+
+Today's lesson is waiting: https://www.duolingo.com/lesson
+
+Duolingo
+
+--bound0038
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>You're on a <strong>30-day streak</strong>!</p>
+    <p>Keep practicing Spanish on Duolingo.</p>
+    <p><a href="https://www.duolingo.com/lesson">Today's lesson</a></p>
+    </body></html>
+
+--bound0038--

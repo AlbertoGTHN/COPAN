@@ -1,0 +1,32 @@
+From: notifications@slack.com
+To: user@company.com
+Subject: Carlos Mendez mentioned you in #engineering
+Date: Thu, 23 Apr 2026 15:00:00 +0000
+Message-ID: <msg0014.441@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0014"
+
+--bound0014
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Carlos Mendez mentioned you in #engineering:
+
+"@sarah can you take a look at the failing CI pipeline?
+Seems related to the docker image update."
+
+Reply in Slack: https://app.slack.com/client/T01AB/C02XY
+
+Slack
+
+--bound0014
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p><strong>Carlos Mendez</strong> mentioned you in #engineering:</p>
+    <blockquote>"@sarah can you take a look at the failing CI pipeline?"</blockquote>
+    <p><a href="https://app.slack.com/client/T01AB/C02XY">Reply in Slack</a></p></body></html>
+
+--bound0014--

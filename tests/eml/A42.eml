@@ -1,0 +1,32 @@
+From: support@docusign.com
+To: legal@company.com
+Subject: Please DocuSign: Vendor Service Agreement
+Date: Thu, 21 May 2026 15:00:00 +0000
+Message-ID: <msg0042.1309@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0042"
+
+--bound0042
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+[DocuSign] legal@company.com, please review and sign this document.
+
+Document: Vendor Service Agreement — Globex Industries
+Sent by: procurement@company.com
+Expires: April 25, 2026
+
+Review and sign: https://powerform.docusign.net/POWERFORM/v1/login?PF=abc123
+
+DocuSign — The Global Standard for eSignature
+
+--bound0042
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Please review and sign:</p>
+    <p><strong>Vendor Service Agreement — Globex Industries</strong></p>
+    <p><a href="https://powerform.docusign.net/POWERFORM/v1/login?PF=abc123">Review & Sign</a></p>
+    </body></html>
+
+--bound0042--

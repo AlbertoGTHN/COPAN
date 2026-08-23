@@ -1,0 +1,32 @@
+From: admin@sharepoint-cloud-storage.net
+To: target@company.com
+Subject: Your OneDrive has been flagged for review
+Date: Sun, 07 Jun 2026 11:00:00 +0000
+Message-ID: <msg0059.1836@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0059"
+
+--bound0059
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear User,
+
+Your OneDrive account has been flagged for storing files that may
+violate Microsoft's Terms of Service. Your files will be deleted
+in 48 hours unless you complete an account review.
+
+Review account: http://sharepoint-cloud-storage.net/review?u=user3
+
+Microsoft OneDrive Compliance Team
+
+--bound0059
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear User,</p>
+    <p>Your OneDrive is flagged. Files will be <strong>deleted in 48 hours</strong>.</p>
+    <p><a href="http://sharepoint-cloud-storage.net/review?u=user3">Review account</a></p>
+    </body></html>
+
+--bound0059--

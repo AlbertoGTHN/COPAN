@@ -1,0 +1,34 @@
+From: update@instagram-security-center.com
+To: instauser@gmail.com
+Subject: Your account will be disabled in 24 hours
+Date: Wed, 06 May 2026 14:00:00 +0000
+Message-ID: <msg0027.844@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0027"
+
+--bound0027
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Your Instagram account has been flagged for violating our community
+guidelines. To prevent permanent disabling, you must complete a
+review within 24 hours.
+
+Complete review: http://instagram-security-center.com/appeal?id=IG2026x
+
+Ignoring this notice will result in permanent account removal.
+
+Instagram Safety Team
+
+--bound0027
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi,</p>
+    <p>Your account has been <strong>flagged</strong> and will be disabled in 24 hours.</p>
+    <p><a href="http://instagram-security-center.com/appeal?id=IG2026x">Complete review</a></p>
+    </body></html>
+
+--bound0027--

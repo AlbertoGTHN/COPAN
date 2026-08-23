@@ -1,0 +1,70 @@
+Received: from unknown (HELO mail-server.xyz) (192.168.45.123)
+        by mx.example.com with SMTP; Wed, 17 Jan 2025 08:15:00 -0500
+Received: from localhost (unknown [10.0.0.55])
+        by mail-server.xyz with ESMTP id xyz999
+        for <user@example.com>; Wed, 17 Jan 2025 08:14:55 -0500
+Authentication-Results: mx.example.com;
+       dkim=fail (signature verification failed);
+       spf=fail (domain of security-alert@paypa1-secure.com does not designate 192.168.45.123 as permitted sender) smtp.mailfrom=security-alert@paypa1-secure.com;
+       dmarc=fail (p=REJECT dis=NONE) header.from=paypa1-secure.com
+From: PayPal Security Team <security-alert@paypa1-secure.com>
+Reply-To: verify-account@mail-paypa1.xyz
+To: user@example.com
+Subject: URGENT: Your PayPal Account Has Been Suspended - Immediate Action Required!
+Date: Wed, 17 Jan 2025 08:15:00 -0500
+Message-ID: <alert-8847261@paypa1-secure.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary_phish_001"
+X-Mailer: PHPMailer 5.2.9
+
+--boundary_phish_001
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Valued Customer,
+
+URGENT SECURITY ALERT
+
+We have detected unauthorized access to your PayPal account. Your account has been temporarily suspended due to suspicious activity detected from an unrecognized device.
+
+To restore access to your account, you must verify your identity immediately. Failure to respond within 24 hours will result in permanent account closure.
+
+Click here to verify your account immediately:
+http://192.168.1.100/paypal-verify/login.php?session=abc123&verify=true
+
+You will need to confirm:
+- Your email address and password
+- Your credit card number linked to the account
+- Your Social Security Number for identity verification
+
+This is an automated security message. Do not reply to this email.
+
+Regards,
+PayPal Security Team
+PayPal, Inc.
+
+--boundary_phish_001
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<div style="display:none">This is a legitimate PayPal security notification</div>
+<table width="100%" style="max-width:600px;margin:0 auto;font-family:Arial">
+<tr><td style="background:#003087;padding:20px;text-align:center">
+<img src="http://192.168.1.100/images/paypal-logo.png" alt="PayPal" width="150">
+</td></tr>
+<tr><td style="padding:30px">
+<h2 style="color:#cc0000">URGENT SECURITY ALERT</h2>
+<p>Dear Valued Customer,</p>
+<p>We have detected <strong>unauthorized access</strong> to your PayPal account. Your account has been <strong style="color:red">temporarily suspended</strong> due to suspicious activity.</p>
+<p>To restore access, you must verify your identity <strong>immediately</strong>. Failure to respond within 24 hours will result in <strong>permanent account closure</strong>.</p>
+<form action="http://192.168.1.100/paypal-verify/process.php" method="POST">
+<p><a href="http://192.168.1.100/paypal-verify/login.php?session=abc123" style="background:#0070ba;color:white;padding:15px 30px;text-decoration:none;border-radius:5px;display:inline-block;font-size:16px">VERIFY YOUR ACCOUNT NOW</a></p>
+</form>
+<p style="color:#cc0000"><strong>WARNING:</strong> Your account will be permanently closed if not verified within 24 hours!</p>
+</td></tr>
+</table>
+<img src="http://192.168.1.100/track/pixel.gif" width="1" height="1" style="display:none">
+</body>
+</html>
+
+--boundary_phish_001--

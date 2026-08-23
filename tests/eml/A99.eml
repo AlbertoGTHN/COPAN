@@ -1,0 +1,32 @@
+From: verify@paypal-account-limit.com
+To: user@gmail.com
+Subject: Your PayPal sending limit has been reached
+Date: Fri, 17 Jul 2026 09:00:00 +0000
+Message-ID: <msg0099.3076@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0099"
+
+--bound0099
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear PayPal User,
+
+You have reached your monthly sending limit of $2,000. To lift
+this restriction and continue sending payments, please verify
+your identity and link a bank account.
+
+Lift restriction: http://paypal-account-limit.com/lift?uid=PPL2026x
+
+PayPal Compliance Team
+
+--bound0099
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear PayPal User,</p>
+    <p>Monthly sending limit of <strong>$2,000</strong> reached.</p>
+    <p><a href="http://paypal-account-limit.com/lift?uid=PPL2026x">Lift restriction</a></p>
+    </body></html>
+
+--bound0099--

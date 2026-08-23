@@ -1,0 +1,37 @@
+From: noreply@grammarly.com
+To: writer@company.com
+Subject: Your Grammarly weekly writing stats
+Date: Sun, 12 Jul 2026 11:00:00 +0000
+Message-ID: <msg0094.2921@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0094"
+
+--bound0094
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Here's your Grammarly writing summary for this week:
+
+Words checked: 14,320
+Correctness issues fixed: 47
+Clarity suggestions accepted: 23
+Tone: Confident (most common)
+
+Keep writing: https://app.grammarly.com/
+
+Grammarly
+
+--bound0094
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Your Grammarly stats this week:</p>
+    <ul><li>Words checked: 14,320</li>
+    <li>Issues fixed: 47</li>
+    <li>Clarity accepted: 23</li></ul>
+    <p><a href="https://app.grammarly.com/">Keep writing</a></p>
+    </body></html>
+
+--bound0094--

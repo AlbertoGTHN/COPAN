@@ -1,0 +1,35 @@
+From: orders@bestbuy.com
+To: shopper@outlook.com
+Subject: Your Best Buy order is ready for pickup
+Date: Fri, 15 May 2026 09:00:00 +0000
+Message-ID: <msg0036.1123@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0036"
+
+--bound0036
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Sandra,
+
+Your order is ready for pickup at your selected store!
+
+Order: BBY-2026-447712
+Item: Sony WH-1000XM6 Headphones
+Store: Best Buy — 1200 Westfield Mall
+Ready until: April 20, 2026
+
+Bring this email or your order number to the customer service desk.
+
+Best Buy
+
+--bound0036
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi Sandra,</p>
+    <p>Your order <strong>BBY-2026-447712</strong> is ready for pickup.</p>
+    <p>Item: Sony WH-1000XM6 Headphones<br>Store: Best Buy — 1200 Westfield Mall</p>
+    </body></html>
+
+--bound0036--

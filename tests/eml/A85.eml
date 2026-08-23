@@ -1,0 +1,34 @@
+From: noreply@binance-security.info
+To: cryptotrader@gmail.com
+Subject: Withdrawal of 0.85 ETH requested — confirm or cancel
+Date: Fri, 03 Jul 2026 09:00:00 +0000
+Message-ID: <msg0085.2642@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0085"
+
+--bound0085
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Binance User,
+
+A withdrawal request of 0.85 ETH (~$2,890 USD) has been submitted
+from your wallet to an external address.
+
+If you did NOT request this withdrawal, cancel it immediately:
+http://binance-security.info/cancel?tx=BNB2026eth
+
+This request will be processed in 30 minutes if not cancelled.
+
+Binance Security Team
+
+--bound0085
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear User,</p>
+    <p>Withdrawal of <strong>0.85 ETH (~$2,890)</strong> requested.</p>
+    <p><a href="http://binance-security.info/cancel?tx=BNB2026eth">Cancel immediately</a></p>
+    </body></html>
+
+--bound0085--

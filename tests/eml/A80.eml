@@ -1,0 +1,37 @@
+From: support@github.com
+To: developer@company.com
+Subject: GitHub Actions: Workflow run failed — main branch
+Date: Sun, 28 Jun 2026 11:00:00 +0000
+Message-ID: <msg0080.2487@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0080"
+
+--bound0080
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+A GitHub Actions workflow run failed:
+
+Repository: company/core-api
+Workflow: CI/CD Pipeline
+Branch: main
+Commit: a9f3c21 ("Merge PR #412: fix/auth-token-expiry")
+Error: Test suite failed — 2 tests failed
+
+View run: https://github.com/company/core-api/actions/runs/88219123
+
+GitHub Actions
+
+--bound0080
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>GitHub Actions workflow failed:</p>
+    <p>Repo: company/core-api | Branch: main<br>
+    Commit: a9f3c21</p>
+    <p><a href="https://github.com/company/core-api/actions/runs/88219123">View run details</a></p>
+    </body></html>
+
+--bound0080--

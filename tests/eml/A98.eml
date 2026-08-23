@@ -1,0 +1,37 @@
+From: security@acmecorp.com
+To: staff@acmecorp.com
+Subject: Mandatory security awareness training — due April 30
+Date: Thu, 16 Jul 2026 15:00:00 +0000
+Message-ID: <msg0098.3045@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0098"
+
+--bound0098
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Team Member,
+
+As part of our annual compliance program, all staff are required
+to complete the 2026 Security Awareness Training module by April 30.
+
+The training takes approximately 45 minutes and covers:
+- Phishing recognition
+- Password hygiene
+- Data handling procedures
+
+Access training: https://training.acmecorp.com/security2026
+
+Security & Compliance Team
+
+--bound0098
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Team Member,</p>
+    <p>Complete <strong>Security Awareness Training</strong> by April 30, 2026.</p>
+    <ul><li>Phishing recognition</li><li>Password hygiene</li><li>Data handling</li></ul>
+    <p><a href="https://training.acmecorp.com/security2026">Access training</a></p>
+    </body></html>
+
+--bound0098--

@@ -1,0 +1,33 @@
+From: no-reply@google.com
+To: workspace-user@company.com
+Subject: Security alert: New sign-in to your account
+Date: Thu, 18 Jun 2026 15:00:00 +0000
+Message-ID: <msg0070.2177@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0070"
+
+--bound0070
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your Google Account was just signed in to from a new device.
+
+Device: MacBook Pro (macOS 15)
+Location: San Pedro Sula, Honduras
+Time: April 15, 2026, 8:32 AM
+
+If this was you, no action is needed.
+If not, secure your account: https://myaccount.google.com/security
+
+Google Account Team
+
+--bound0070
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>New sign-in to your Google Account:</p>
+    <p>Device: MacBook Pro | San Pedro Sula | April 15, 2026</p>
+    <p>Not you? <a href="https://myaccount.google.com/security">Secure your account</a></p>
+    </body></html>
+
+--bound0070--

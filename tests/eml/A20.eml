@@ -1,0 +1,40 @@
+From: registrar@uth.edu.hn
+To: student@uth.edu.hn
+Subject: Course registration confirmation — Spring 2026
+Date: Wed, 29 Apr 2026 14:00:00 +0000
+Message-ID: <msg0020.627@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0020"
+
+--bound0020
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Student,
+
+Your course registration for Spring 2026 has been confirmed.
+
+Registered courses:
+- CIBR-401: Advanced Network Security (3 credits)
+- CIBR-450: Malware Analysis (3 credits)
+- MATH-310: Probability and Statistics (3 credits)
+
+Total credits: 9
+Registration ID: UTH-2026-03-18842
+
+For questions visit the registrar's office or email registrar@uth.edu.hn.
+
+Registrar's Office — UTH
+
+--bound0020
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Student,</p>
+    <p>Your Spring 2026 registration is confirmed (ID: UTH-2026-03-18842).</p>
+    <ul><li>CIBR-401: Advanced Network Security</li>
+    <li>CIBR-450: Malware Analysis</li>
+    <li>MATH-310: Probability and Statistics</li></ul>
+    </body></html>
+
+--bound0020--

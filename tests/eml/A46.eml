@@ -1,0 +1,34 @@
+From: payroll@acmecorp.com
+To: employee@acmecorp.com
+Subject: April payslip is available
+Date: Mon, 25 May 2026 12:00:00 +0000
+Message-ID: <msg0046.1433@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0046"
+
+--bound0046
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Team Member,
+
+Your April 2026 payslip is now available in the HR portal.
+
+Pay date: April 30, 2026
+Access your payslip: https://hr.acmecorp.com/payslips
+
+If you have discrepancies, contact payroll@acmecorp.com by April 25.
+
+Payroll Department
+
+--bound0046
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Team Member,</p>
+    <p>Your April 2026 payslip is available.</p>
+    <p>Pay date: <strong>April 30, 2026</strong></p>
+    <p><a href="https://hr.acmecorp.com/payslips">Access payslip</a></p>
+    </body></html>
+
+--bound0046--

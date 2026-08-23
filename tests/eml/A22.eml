@@ -1,0 +1,36 @@
+From: no-reply@atlassian.com
+To: dev@company.com
+Subject: Jira: Issue assigned to you — PROJ-1147
+Date: Fri, 01 May 2026 09:00:00 +0000
+Message-ID: <msg0022.689@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0022"
+
+--bound0022
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+An issue has been assigned to you in Jira:
+
+PROJ-1147: Fix rate-limiting bug on /api/analyze endpoint
+Priority: High
+Reporter: Carlos Mendez
+Due: Apr 22, 2026
+
+View issue: https://yourorg.atlassian.net/browse/PROJ-1147
+
+Atlassian
+
+--bound0022
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Issue assigned to you in Jira:</p>
+    <p><strong>PROJ-1147</strong>: Fix rate-limiting bug on /api/analyze endpoint</p>
+    <p>Priority: High | Due: Apr 22, 2026</p>
+    <p><a href="https://yourorg.atlassian.net/browse/PROJ-1147">View issue</a></p>
+    </body></html>
+
+--bound0022--

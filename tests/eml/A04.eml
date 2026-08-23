@@ -1,0 +1,31 @@
+From: notifications@github.com
+To: dev@company.com
+Subject: Pull request review requested: fix/auth-token-expiry
+Date: Mon, 13 Apr 2026 12:00:00 +0000
+Message-ID: <msg0004.131@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0004"
+
+--bound0004
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi there,
+
+carlos_mendez requested your review on pull request #412:
+fix/auth-token-expiry in repository core-api.
+
+Changes: 3 files, +47 -12 lines
+View on GitHub: https://github.com/company/core-api/pull/412
+
+You are receiving this because you were mentioned.
+
+--bound0004
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi there,</p><p><strong>carlos_mendez</strong> requested your review
+    on pull request <a href="https://github.com/company/core-api/pull/412">#412: fix/auth-token-expiry</a>
+    in <em>core-api</em>.</p><p>Changes: 3 files, +47 -12 lines</p></body></html>
+
+--bound0004--

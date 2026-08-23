@@ -1,0 +1,36 @@
+Received: from smtp-out.amazon.com (smtp-out.amazon.com [176.32.126.10])
+        by mx.example.com with ESMTPS id def789
+        for <user@example.com>; Tue, 16 Jan 2025 14:22:00 -0500
+Authentication-Results: mx.example.com;
+       dkim=pass header.i=@amazon.com header.s=dkim2048 header.b=ABCDEF;
+       spf=pass (domain of ship-confirm@amazon.com designates 176.32.126.10 as permitted sender) smtp.mailfrom=ship-confirm@amazon.com;
+       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=amazon.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=amazon.com; s=dkim2048;
+        h=from:to:subject:date:message-id:mime-version:content-type;
+        bh=ghijkl; b=MNOPQR
+From: Amazon.com <ship-confirm@amazon.com>
+To: user@example.com
+Subject: Your Amazon.com order #112-3456789-0123456 has shipped!
+Date: Tue, 16 Jan 2025 14:22:00 -0500
+Message-ID: <order-112-3456789-0123456@amazon.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Your order #112-3456789-0123456 has shipped!
+
+Order Details:
+- Wireless Bluetooth Headphones (Black) x1
+- Estimated delivery: January 18-20, 2025
+
+Shipping address:
+123 Main Street, Apt 4B
+New York, NY 10001
+
+Track your package at https://www.amazon.com/gp/your-account/order-details?orderID=112-3456789-0123456
+
+Order total: $49.99
+
+Thank you for shopping with us!
+Amazon.com

@@ -1,0 +1,35 @@
+From: receipts@uber.com
+To: rider@gmail.com
+Subject: Your Tuesday trip receipt
+Date: Sun, 14 Jun 2026 11:00:00 +0000
+Message-ID: <msg0066.2053@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0066"
+
+--bound0066
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Carlos,
+
+Thanks for riding with Uber!
+
+Trip: Home → Airport
+Date: April 15, 2026, 6:42 AM
+Driver: Miguel R. ⭐ 4.93
+Distance: 18.4 km
+Total: $12.80 (charged to Visa 3921)
+
+Uber
+
+--bound0066
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi Carlos,</p>
+    <p>Your Uber receipt:</p>
+    <p>Home → Airport | April 15, 2026<br>
+    Total: <strong>$12.80</strong></p>
+    </body></html>
+
+--bound0066--

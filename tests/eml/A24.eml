@@ -1,0 +1,32 @@
+From: noreply@figma.com
+To: designer@company.com
+Subject: Maria shared a design file with you
+Date: Sun, 03 May 2026 11:00:00 +0000
+Message-ID: <msg0024.751@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0024"
+
+--bound0024
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Maria Lopez shared a Figma file with you:
+"Mobile App Redesign v3 — Final"
+
+Open in Figma: https://www.figma.com/file/Kd92mNp8/Mobile-App-Redesign-v3
+
+Figma
+
+--bound0024
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi,</p>
+    <p><strong>Maria Lopez</strong> shared a Figma file with you:</p>
+    <p><em>Mobile App Redesign v3 — Final</em></p>
+    <p><a href="https://www.figma.com/file/Kd92mNp8/Mobile-App-Redesign-v3">Open in Figma</a></p>
+    </body></html>
+
+--bound0024--

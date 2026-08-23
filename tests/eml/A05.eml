@@ -1,0 +1,33 @@
+From: billing-update@netf1ix-accounts.ru
+To: subscriber@yahoo.com
+Subject: Payment method declined — action required
+Date: Tue, 14 Apr 2026 13:00:00 +0000
+Message-ID: <msg0005.162@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0005"
+
+--bound0005
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We were unable to process your last payment. To continue enjoying
+your subscription without interruption, please update your billing
+information immediately.
+
+Update now: http://netf1ix-accounts.ru/billing/update?u=7f3a
+
+This link expires in 12 hours.
+
+Billing Support Team
+
+--bound0005
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hello,</p><p>We were unable to process your last payment.</p>
+    <p><a href="http://netf1ix-accounts.ru/billing/update?u=7f3a">Update your billing info</a></p>
+    <p>This link expires in 12 hours.</p></body></html>
+
+--bound0005--

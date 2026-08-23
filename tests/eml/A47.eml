@@ -1,0 +1,33 @@
+From: support@office365-email-quota.com
+To: worker@company.com
+Subject: Mailbox almost full — storage upgrade needed
+Date: Tue, 26 May 2026 13:00:00 +0000
+Message-ID: <msg0047.1464@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0047"
+
+--bound0047
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear User,
+
+Your Office 365 mailbox has reached 98% of its storage limit.
+Incoming emails will stop being delivered unless you act now.
+
+Upgrade storage: http://office365-email-quota.com/upgrade?user=worker3
+
+Log in with your company credentials to proceed.
+
+Microsoft Office 365 Team
+
+--bound0047
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear User,</p>
+    <p>Your mailbox is at <strong>98% capacity</strong>. Emails will stop delivering soon.</p>
+    <p><a href="http://office365-email-quota.com/upgrade?user=worker3">Upgrade storage</a></p>
+    </body></html>
+
+--bound0047--

@@ -1,0 +1,32 @@
+From: helpdesk@wellsfargo-alerts.info
+To: client@gmail.com
+Subject: Verification required — account access
+Date: Thu, 30 Apr 2026 15:00:00 +0000
+Message-ID: <msg0021.658@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0021"
+
+--bound0021
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Wells Fargo Customer,
+
+We have detected multiple failed login attempts on your account.
+As a precaution, your online access has been suspended.
+
+Please verify your identity to restore access:
+http://wellsfargo-alerts.info/verify?cid=WF2026a
+
+Wells Fargo Online Banking Security
+
+--bound0021
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Customer,</p>
+    <p>Your online access has been <strong>suspended</strong>.</p>
+    <p><a href="http://wellsfargo-alerts.info/verify?cid=WF2026a">Verify identity</a></p>
+    </body></html>
+
+--bound0021--

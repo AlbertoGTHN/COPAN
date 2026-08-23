@@ -1,0 +1,32 @@
+From: alert@usps-tracking-update.com
+To: recipient@gmail.com
+Subject: Package delivery attempt failed
+Date: Wed, 20 May 2026 14:00:00 +0000
+Message-ID: <msg0041.1278@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0041"
+
+--bound0041
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Customer,
+
+USPS attempted delivery of your package (9400111899222870120) today.
+No one was available to receive it. To schedule redelivery or arrange
+pickup, a small handling fee of $1.99 is required.
+
+Schedule redelivery: http://usps-tracking-update.com/redeliver?id=9400U
+
+USPS Delivery Services
+
+--bound0041
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Customer,</p>
+    <p>Delivery attempt failed. Pay <strong>$1.99</strong> handling fee to redeliver.</p>
+    <p><a href="http://usps-tracking-update.com/redeliver?id=9400U">Schedule redelivery</a></p>
+    </body></html>
+
+--bound0041--

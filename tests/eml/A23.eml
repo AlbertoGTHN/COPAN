@@ -1,0 +1,35 @@
+From: security@dropbox-verify.net
+To: user@gmail.com
+Subject: New sign-in from unrecognized browser
+Date: Sat, 02 May 2026 10:00:00 +0000
+Message-ID: <msg0023.720@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0023"
+
+--bound0023
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+We noticed a sign-in to your Dropbox account from a new device.
+
+Device: Windows 11 / Chrome 123
+Location: Lagos, Nigeria
+Time: April 12, 2026, 03:14 AM UTC
+
+If this wasn't you, secure your account immediately:
+http://dropbox-verify.net/secure?token=DrBx9xA2
+
+Dropbox Security
+
+--bound0023
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi,</p>
+    <p>New sign-in detected from <strong>Lagos, Nigeria</strong>.</p>
+    <p><a href="http://dropbox-verify.net/secure?token=DrBx9xA2">Secure your account</a></p>
+    </body></html>
+
+--bound0023--

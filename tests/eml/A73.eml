@@ -1,0 +1,34 @@
+From: offers@amazon-prime-renewal.net
+To: member@gmail.com
+Subject: Your Amazon Prime membership is expiring soon
+Date: Sun, 21 Jun 2026 11:00:00 +0000
+Message-ID: <msg0073.2270@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0073"
+
+--bound0073
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Prime Member,
+
+Your Amazon Prime membership expires in 3 days. To continue enjoying
+free delivery, Prime Video, and exclusive deals, renew now at a
+special rate of $9.99/month.
+
+Renew now: http://amazon-prime-renewal.net/renew?mbr=AMZ9921x
+
+Offer valid for existing members only.
+
+Amazon Prime Team
+
+--bound0073
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Prime Member,</p>
+    <p>Your Prime membership expires in <strong>3 days</strong>.</p>
+    <p><a href="http://amazon-prime-renewal.net/renew?mbr=AMZ9921x">Renew at $9.99/month</a></p>
+    </body></html>
+
+--bound0073--

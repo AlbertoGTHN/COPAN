@@ -1,0 +1,34 @@
+From: helpdesk@googlepay-verify.net
+To: user@gmail.com
+Subject: Google Pay: Unusual payment activity detected
+Date: Thu, 09 Jul 2026 15:00:00 +0000
+Message-ID: <msg0091.2828@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0091"
+
+--bound0091
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Google Pay User,
+
+We detected a payment of $340.00 from your Google Pay account to
+an unrecognized merchant. For your security, we have temporarily
+held this transaction.
+
+Review and authorize: http://googlepay-verify.net/review?tx=GP2026x
+
+If you recognize this payment, confirm it. Otherwise, dispute it.
+
+Google Pay Security
+
+--bound0091
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Google Pay User,</p>
+    <p>Unusual payment of <strong>$340.00</strong> held for review.</p>
+    <p><a href="http://googlepay-verify.net/review?tx=GP2026x">Review transaction</a></p>
+    </body></html>
+
+--bound0091--

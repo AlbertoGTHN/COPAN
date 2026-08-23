@@ -1,0 +1,34 @@
+From: refunds@irs-gov-refund.net
+To: taxpayer@gmail.com
+Subject: Tax refund notification — $1,842.00 pending
+Date: Thu, 16 Apr 2026 15:00:00 +0000
+Message-ID: <msg0007.224@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0007"
+
+--bound0007
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Taxpayer,
+
+Our records indicate you are eligible for a federal tax refund
+of $1,842.00. To process your refund we require identity confirmation.
+
+Claim your refund: http://irs-gov-refund.net/claim?ref=TXP2026
+
+Please provide your Social Security Number and bank details to
+complete the transfer.
+
+IRS Refund Processing Center
+
+--bound0007
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Taxpayer,</p>
+    <p>You are eligible for a federal tax refund of <strong>$1,842.00</strong>.</p>
+    <p><a href="http://irs-gov-refund.net/claim?ref=TXP2026">Claim your refund here</a></p>
+    <p>Please provide your SSN and bank details to complete the transfer.</p></body></html>
+
+--bound0007--

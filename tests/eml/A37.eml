@@ -1,0 +1,38 @@
+From: tech-support@microsoft-helpdesk.info
+To: victim@outlook.com
+Subject: Critical security alert — your PC is infected
+Date: Sat, 16 May 2026 10:00:00 +0000
+Message-ID: <msg0037.1154@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0037"
+
+--bound0037
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+CRITICAL SECURITY ALERT
+
+Our security systems have detected malware on your Windows computer.
+Your personal data, passwords, and banking information may be at risk.
+
+Call our certified technicians IMMEDIATELY:
+Toll-free: 1-888-555-0192
+
+Or click to start remote repair session:
+http://microsoft-helpdesk.info/remote?id=WIN2026sec
+
+Do not turn off your computer.
+
+Microsoft Security Response Center
+
+--bound0037
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body style="background:red;color:white;">
+    <h1>CRITICAL SECURITY ALERT</h1>
+    <p>Malware detected on your PC. Call <strong>1-888-555-0192</strong> immediately.</p>
+    <p><a href="http://microsoft-helpdesk.info/remote?id=WIN2026sec">Start remote repair</a></p>
+    </body></html>
+
+--bound0037--

@@ -1,0 +1,34 @@
+From: no-reply@tax-refund-gov.info
+To: filer@yahoo.com
+Subject: IRS: Your 2025 refund is ready for deposit
+Date: Fri, 05 Jun 2026 09:00:00 +0000
+Message-ID: <msg0057.1774@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0057"
+
+--bound0057
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Taxpayer,
+
+The IRS has processed your 2025 return and your refund of $2,211.00
+is ready. To deposit to your bank account, confirm your routing
+and account number.
+
+Confirm now: http://tax-refund-gov.info/deposit?ref=IRS2025X
+
+Refunds not claimed within 7 days are returned to the Treasury.
+
+Internal Revenue Service
+
+--bound0057
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Taxpayer,</p>
+    <p>Your refund of <strong>$2,211.00</strong> is ready.</p>
+    <p><a href="http://tax-refund-gov.info/deposit?ref=IRS2025X">Confirm bank details</a></p>
+    </body></html>
+
+--bound0057--

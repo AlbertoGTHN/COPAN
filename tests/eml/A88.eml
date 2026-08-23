@@ -1,0 +1,35 @@
+From: accounts@acmecorp.com
+To: vendor@supplier.com
+Subject: Payment processed — Invoice INV-2026-0092
+Date: Mon, 06 Jul 2026 12:00:00 +0000
+Message-ID: <msg0088.2735@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0088"
+
+--bound0088
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Supplier,
+
+We have processed payment for Invoice INV-2026-0092.
+
+Amount: $8,750.00 USD
+Payment method: Bank Transfer
+Reference: ACM-PAY-2026-0092
+Expected arrival: 2–3 business days
+
+Please confirm receipt. Contact accounts@acmecorp.com with questions.
+
+Accounts Payable — Acme Corp
+
+--bound0088
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Supplier,</p>
+    <p>Payment processed for Invoice INV-2026-0092: <strong>$8,750.00</strong></p>
+    <p>Reference: ACM-PAY-2026-0092 | ETA: 2–3 business days</p>
+    </body></html>
+
+--bound0088--

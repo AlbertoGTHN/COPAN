@@ -1,0 +1,32 @@
+From: support@apple-billing-update.com
+To: user@icloud.com
+Subject: Your Apple subscription payment failed
+Date: Sat, 27 Jun 2026 10:00:00 +0000
+Message-ID: <msg0079.2456@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0079"
+
+--bound0079
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Apple Customer,
+
+We were unable to process your payment for iCloud+ 2TB storage.
+To avoid losing access to your photos and backups, update your
+payment method immediately.
+
+Update now: http://apple-billing-update.com/payment?uid=APL2026b
+
+Apple Billing Support
+
+--bound0079
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Customer,</p>
+    <p>Your iCloud+ payment <strong>failed</strong>.</p>
+    <p><a href="http://apple-billing-update.com/payment?uid=APL2026b">Update payment method</a></p>
+    </body></html>
+
+--bound0079--

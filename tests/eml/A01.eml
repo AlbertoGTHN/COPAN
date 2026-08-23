@@ -1,0 +1,36 @@
+From: security-noreply@paypa1-accounts.com
+To: customer@gmail.com
+Subject: Your account has been limited
+Date: Fri, 10 Apr 2026 09:00:00 +0000
+Message-ID: <msg0001.38@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0001"
+
+--bound0001
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Customer,
+
+We noticed unusual activity on your account and have temporarily
+limited your access. To restore full access, please verify your
+information within 24 hours.
+
+Click here to verify: http://paypa1-accounts.com/verify?token=xK92mZ
+
+Failure to act may result in permanent account suspension.
+
+PayPal Security Team
+
+--bound0001
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Customer,</p><p>We noticed unusual activity on your account
+    and have temporarily <b>limited your access</b>. To restore full access, please verify
+    your information within 24 hours.</p>
+    <p><a href="http://paypa1-accounts.com/verify?token=xK92mZ">Click here to verify</a></p>
+    <p>Failure to act may result in permanent account suspension.</p>
+    <p>PayPal Security Team</p></body></html>
+
+--bound0001--

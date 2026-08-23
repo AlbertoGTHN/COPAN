@@ -1,0 +1,36 @@
+From: statements@chase.com
+To: accountholder@gmail.com
+Subject: Your April statement is ready
+Date: Sat, 25 Apr 2026 10:00:00 +0000
+Message-ID: <msg0016.503@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0016"
+
+--bound0016
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Robert,
+
+Your Chase credit card statement for April 2026 is now available.
+
+Account ending: 4821
+Statement period: Mar 14 – Apr 13, 2026
+Balance due: $1,203.47
+Due date: May 8, 2026
+
+Sign in to chase.com to view your full statement.
+
+Chase Customer Service
+
+--bound0016
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi Robert,</p><p>Your April 2026 statement is ready.</p>
+    <table><tr><td>Account ending:</td><td>4821</td></tr>
+    <tr><td>Balance due:</td><td>$1,203.47</td></tr>
+    <tr><td>Due date:</td><td>May 8, 2026</td></tr></table>
+    <p>Sign in to chase.com to view your statement.</p></body></html>
+
+--bound0016--

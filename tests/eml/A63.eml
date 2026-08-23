@@ -1,0 +1,32 @@
+From: security@twitter-account-suspend.com
+To: tweeter@yahoo.com
+Subject: Your X account has been suspended
+Date: Thu, 11 Jun 2026 15:00:00 +0000
+Message-ID: <msg0063.1960@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0063"
+
+--bound0063
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Your X (Twitter) account has been suspended for violating our
+rules. To appeal this decision and restore your account, complete
+the verification form.
+
+Appeal here: http://twitter-account-suspend.com/appeal?id=XSus2026
+
+X Trust & Safety Team
+
+--bound0063
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi,</p>
+    <p>Your X account has been <strong>suspended</strong>.</p>
+    <p><a href="http://twitter-account-suspend.com/appeal?id=XSus2026">Appeal now</a></p>
+    </body></html>
+
+--bound0063--

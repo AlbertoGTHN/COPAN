@@ -1,0 +1,36 @@
+From: noreply@notion.so
+To: teamlead@company.com
+Subject: Your weekly Notion digest
+Date: Wed, 27 May 2026 14:00:00 +0000
+Message-ID: <msg0048.1495@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0048"
+
+--bound0048
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Here's what happened in your Notion workspace this week:
+
+- 12 pages updated in "Engineering Wiki"
+- 3 new comments on "Q2 OKRs"
+- Sprint planning template was duplicated by Carlos
+
+Open Notion: https://notion.so
+
+Notion
+
+--bound0048
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Your Notion digest:</p>
+    <ul><li>12 pages updated in Engineering Wiki</li>
+    <li>3 new comments on Q2 OKRs</li>
+    <li>Sprint planning template duplicated</li></ul>
+    <p><a href="https://notion.so">Open Notion</a></p>
+    </body></html>
+
+--bound0048--

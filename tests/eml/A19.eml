@@ -1,0 +1,40 @@
+From: ceo.michael.brennan.office@acmecorp-exec.com
+To: accountant@acmecorp.com
+Subject: Urgent wire transfer needed today
+Date: Tue, 28 Apr 2026 13:00:00 +0000
+Message-ID: <msg0019.596@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0019"
+
+--bound0019
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I'm in back-to-back meetings and need you to process an urgent
+wire transfer before end of business today. This is time-sensitive
+and confidential — please do not discuss with other staff.
+
+Amount: $47,500 USD
+Beneficiary: Apex Consulting LLC
+Account: 8823-441-009 / Routing: 021000021
+
+I will explain the full context after the transfer is confirmed.
+Please action immediately and reply with confirmation.
+
+Michael Brennan
+CEO, Acme Corp
+
+--bound0019
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi,</p>
+    <p>Please process an urgent wire transfer today. <strong>Confidential.</strong></p>
+    <p>Amount: $47,500 USD<br>Beneficiary: Apex Consulting LLC<br>
+    Account: 8823-441-009 / Routing: 021000021</p>
+    <p>Reply with confirmation immediately.</p>
+    <p>Michael Brennan, CEO</p></body></html>
+
+--bound0019--

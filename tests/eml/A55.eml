@@ -1,0 +1,34 @@
+From: helpdesk@zoom-account-verify.com
+To: user@company.com
+Subject: Your Zoom Pro license will expire — renew now
+Date: Wed, 03 Jun 2026 14:00:00 +0000
+Message-ID: <msg0055.1712@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0055"
+
+--bound0055
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Zoom User,
+
+Your Zoom Pro license expires in 3 days. To avoid service interruption,
+please renew your subscription immediately.
+
+Renew now: http://zoom-account-verify.com/renew?uid=ZM2026pr
+
+After expiry you will be downgraded to the free plan with 40-minute
+meeting limits.
+
+Zoom Accounts Team
+
+--bound0055
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Zoom User,</p>
+    <p>Your Zoom Pro license expires in <strong>3 days</strong>.</p>
+    <p><a href="http://zoom-account-verify.com/renew?uid=ZM2026pr">Renew now</a></p>
+    </body></html>
+
+--bound0055--

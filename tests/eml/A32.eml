@@ -1,0 +1,33 @@
+From: it@acmecorp.com
+To: staff@acmecorp.com
+Subject: Scheduled maintenance — VPN downtime April 20
+Date: Mon, 11 May 2026 12:00:00 +0000
+Message-ID: <msg0032.999@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0032"
+
+--bound0032
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Team,
+
+Our VPN infrastructure will undergo scheduled maintenance on
+Sunday, April 20, from 11 PM to 3 AM (CST).
+
+During this window remote access will be unavailable. Please
+ensure any critical tasks requiring VPN access are completed
+before 10:30 PM.
+
+IT Operations
+
+--bound0032
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi Team,</p>
+    <p>VPN maintenance: <strong>April 20, 11 PM – 3 AM CST</strong>.</p>
+    <p>Remote access will be unavailable during this window.</p>
+    </body></html>
+
+--bound0032--

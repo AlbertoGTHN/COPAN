@@ -1,0 +1,35 @@
+From: receipts@stripe.com
+To: owner@smallbiz.com
+Subject: Payment received — $2,340.00
+Date: Thu, 07 May 2026 15:00:00 +0000
+Message-ID: <msg0028.875@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0028"
+
+--bound0028
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+A payment of $2,340.00 has been successfully received.
+
+Customer: Globex Industries
+Invoice: INV-2026-0089
+Date: April 14, 2026
+Method: Visa ending 3842
+
+View in dashboard: https://dashboard.stripe.com/payments/
+
+Stripe
+
+--bound0028
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Payment received: <strong>$2,340.00</strong></p>
+    <p>Customer: Globex Industries | Invoice: INV-2026-0089</p>
+    <p><a href="https://dashboard.stripe.com/payments/">View in dashboard</a></p>
+    </body></html>
+
+--bound0028--

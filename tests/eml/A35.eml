@@ -1,0 +1,34 @@
+From: admin@sharepoint-document-portal.com
+To: employee@company.com
+Subject: Action required: Sign the updated NDA
+Date: Thu, 14 May 2026 15:00:00 +0000
+Message-ID: <msg0035.1092@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0035"
+
+--bound0035
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Employee,
+
+HR requires all staff to sign the updated Non-Disclosure Agreement
+by April 30, 2026. Please access the document portal and complete
+your e-signature.
+
+Sign now: http://sharepoint-document-portal.com/sign?doc=NDA2026&emp=3821
+
+Your credentials from your company email apply.
+
+HR Compliance Team
+
+--bound0035
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Employee,</p>
+    <p>Please sign the updated NDA by <strong>April 30, 2026</strong>.</p>
+    <p><a href="http://sharepoint-document-portal.com/sign?doc=NDA2026&emp=3821">Sign now</a></p>
+    </body></html>
+
+--bound0035--

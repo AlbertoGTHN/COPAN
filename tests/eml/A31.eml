@@ -1,0 +1,35 @@
+From: noreply@coinbase-wallet-alert.com
+To: cryptouser@gmail.com
+Subject: Withdrawal request initiated — verify to proceed
+Date: Sun, 10 May 2026 11:00:00 +0000
+Message-ID: <msg0031.968@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0031"
+
+--bound0031
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+A withdrawal request of 1.42 BTC (~$87,300 USD) has been initiated
+from your Coinbase wallet.
+
+If you did not authorize this, cancel immediately:
+http://coinbase-wallet-alert.com/cancel?tx=CB29Zq1
+
+Failure to respond within 30 minutes will result in the transfer
+being completed.
+
+Coinbase Wallet Security
+
+--bound0031
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hello,</p>
+    <p>Withdrawal of <strong>1.42 BTC (~$87,300)</strong> initiated.</p>
+    <p><a href="http://coinbase-wallet-alert.com/cancel?tx=CB29Zq1">Cancel immediately</a></p>
+    </body></html>
+
+--bound0031--

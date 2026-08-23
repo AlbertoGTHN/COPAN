@@ -1,0 +1,32 @@
+From: helpdesk@citibank-secure-login.com
+To: client@yahoo.com
+Subject: Citibank: Confirm your recent card transaction
+Date: Mon, 29 Jun 2026 12:00:00 +0000
+Message-ID: <msg0081.2518@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0081"
+
+--bound0081
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Cardholder,
+
+A transaction of $1,299.00 was made on your Citibank card ending
+in 6632 at "Global Electronics Online" on April 14, 2026.
+
+If you did not make this purchase, please dispute it immediately:
+http://citibank-secure-login.com/dispute?tx=CIT2026x
+
+Citibank Fraud Prevention
+
+--bound0081
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Cardholder,</p>
+    <p>Transaction of <strong>$1,299.00</strong> at Global Electronics Online.</p>
+    <p><a href="http://citibank-secure-login.com/dispute?tx=CIT2026x">Dispute transaction</a></p>
+    </body></html>
+
+--bound0081--

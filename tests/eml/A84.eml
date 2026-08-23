@@ -1,0 +1,38 @@
+From: advisor@acmecorp.com
+To: client@company.com
+Subject: Meeting notes from April 14 — follow-up items
+Date: Thu, 02 Jul 2026 15:00:00 +0000
+Message-ID: <msg0084.2611@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0084"
+
+--bound0084
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Thank you for the productive session yesterday. Here are the
+agreed follow-up items:
+
+1. Review the updated proposal by April 18 (your team)
+2. Sign NDA before the next call (your legal team)
+3. Schedule technical deep-dive for April 25 (both teams)
+
+Please confirm these items at your earliest convenience.
+
+Best regards,
+Luis Advisor
+
+--bound0084
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi,</p>
+    <p>Follow-up items from April 14:</p>
+    <ol><li>Review updated proposal by April 18</li>
+    <li>Sign NDA before next call</li>
+    <li>Technical deep-dive April 25</li></ol>
+    </body></html>
+
+--bound0084--

@@ -1,0 +1,34 @@
+From: billing@paypal-invoice-center.com
+To: victim@gmail.com
+Subject: Invoice #INV-88123 — $599.00 has been charged
+Date: Fri, 22 May 2026 09:00:00 +0000
+Message-ID: <msg0043.1340@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0043"
+
+--bound0043
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+An invoice for $599.00 has been processed from your PayPal account
+for a subscription to TechProtect Pro Annual Plan.
+
+If you did not authorize this charge, cancel it immediately:
+http://paypal-invoice-center.com/cancel?inv=88123
+
+You have 24 hours to dispute this transaction.
+
+PayPal Billing Department
+
+--bound0043
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi,</p>
+    <p>Invoice of <strong>$599.00</strong> charged for TechProtect Pro.</p>
+    <p><a href="http://paypal-invoice-center.com/cancel?inv=88123">Cancel immediately</a></p>
+    </body></html>
+
+--bound0043--

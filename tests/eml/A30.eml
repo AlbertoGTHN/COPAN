@@ -1,0 +1,35 @@
+From: professor.rodriguez@uth.edu.hn
+To: student@uth.edu.hn
+Subject: Midterm exam results posted
+Date: Sat, 09 May 2026 10:00:00 +0000
+Message-ID: <msg0030.937@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0030"
+
+--bound0030
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Students,
+
+Midterm exam scores for CIBR-401 have been posted to the student portal.
+
+Class average: 74.3 / 100
+Highest score: 97
+Lowest score: 41
+
+Please review your score and reach out during office hours
+(Tue/Thu 3–5 PM, Room 214) if you have questions.
+
+Dr. Rodriguez
+
+--bound0030
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Students,</p>
+    <p>Midterm scores for CIBR-401 are posted.</p>
+    <p>Average: 74.3 | Highest: 97 | Lowest: 41</p>
+    <p>Office hours: Tue/Thu 3–5 PM, Room 214.</p></body></html>
+
+--bound0030--

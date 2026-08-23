@@ -1,0 +1,37 @@
+From: library@uth.edu.hn
+To: student@uth.edu.hn
+Subject: Library books due for return — April 22
+Date: Wed, 10 Jun 2026 14:00:00 +0000
+Message-ID: <msg0062.1929@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0062"
+
+--bound0062
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Library Member,
+
+The following items are due for return on April 22, 2026:
+
+1. "Computer Networks" — Tanenbaum (Loan ID: LIB-88123)
+2. "The Web Application Hacker's Handbook" (Loan ID: LIB-88124)
+
+Renew online: https://library.uth.edu.hn/renew
+
+Overdue fines: L.5 per day per item.
+
+UTH Library Services
+
+--bound0062
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Library Member,</p>
+    <p>Books due <strong>April 22, 2026</strong>:</p>
+    <ol><li>Computer Networks — Tanenbaum</li>
+    <li>The Web Application Hacker's Handbook</li></ol>
+    <p><a href="https://library.uth.edu.hn/renew">Renew online</a></p>
+    </body></html>
+
+--bound0062--

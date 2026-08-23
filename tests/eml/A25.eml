@@ -1,0 +1,38 @@
+From: prize-notification@winner-clearinghouse.com
+To: lucky@yahoo.com
+Subject: Congratulations! You've been selected
+Date: Mon, 04 May 2026 12:00:00 +0000
+Message-ID: <msg0025.782@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0025"
+
+--bound0025
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Winner,
+
+You have been randomly selected from millions of participants to
+receive a prize of $85,000 USD in our 2026 Global Sweepstakes.
+
+To claim your prize, reply with:
+- Full name
+- Date of birth
+- Home address
+- Phone number
+
+A processing fee of $199 is required via Western Union.
+
+Claims Agent: Mrs. Patricia Howard
+Reply to: claims@winner-clearinghouse.com
+
+--bound0025
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Winner,</p>
+    <p>You've been selected to receive <strong>$85,000 USD</strong>!</p>
+    <p>Reply with your personal details. Processing fee: $199 via Western Union.</p>
+    </body></html>
+
+--bound0025--

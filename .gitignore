@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Environment
+.env
+.venv/
+venv/
+
+# Database
+*.db
+data/raw/
+data/processed/
+
+# Trained models (large binaries — regenerate with train_datasets.py)
+models/*.pkl
+models/*.pt
+models/*.pth
+
+# Tesseract data (large binary — download separately)
+tessdata/
+
+# Build artifacts
+dist/
+build/
+*.spec
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Internal
+CLAUDE_CODE_PROMPT.md
+rename_copan.py

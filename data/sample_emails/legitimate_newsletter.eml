@@ -1,0 +1,70 @@
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com [209.85.220.41])
+        by mx.example.com with ESMTPS id abc123
+        for <user@example.com>; Mon, 15 Jan 2025 10:30:00 -0500
+Received: by mail-sor-f41.google.com with SMTP id abc456
+        for <user@example.com>; Mon, 15 Jan 2025 07:30:00 -0800
+Authentication-Results: mx.example.com;
+       dkim=pass header.i=@techweekly.com header.s=google header.b=abc123;
+       spf=pass (google.com: domain of newsletter@techweekly.com designates 209.85.220.41 as permitted sender) smtp.mailfrom=newsletter@techweekly.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=techweekly.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=techweekly.com; s=google;
+        h=from:to:subject:date:message-id:mime-version:content-type;
+        bh=abc123def456; b=XYZ789
+From: TechWeekly Newsletter <newsletter@techweekly.com>
+To: user@example.com
+Subject: TechWeekly Issue #247 - AI Trends for 2025
+Date: Mon, 15 Jan 2025 10:30:00 -0500
+Message-ID: <newsletter-247-20250115@techweekly.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary_newsletter_247"
+List-Unsubscribe: <https://techweekly.com/unsubscribe?id=user123>
+X-Mailer: Mailchimp
+
+--boundary_newsletter_247
+Content-Type: text/plain; charset="UTF-8"
+
+Hi there,
+
+Welcome to TechWeekly Issue #247!
+
+This week's highlights:
+
+1. AI Trends Shaping 2025
+The artificial intelligence landscape continues to evolve rapidly. This week we look at the top 5 trends that industry experts predict will dominate the coming year.
+
+2. New Open Source Tools
+A roundup of the most promising open source developer tools released this month, including improvements to popular frameworks.
+
+3. Cloud Computing Updates
+Major cloud providers announced new services and pricing changes. Here's what you need to know.
+
+Read the full newsletter at https://techweekly.com/issue/247
+
+Best regards,
+The TechWeekly Team
+
+Unsubscribe: https://techweekly.com/unsubscribe?id=user123
+
+--boundary_newsletter_247
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
+<h1 style="color: #333;">TechWeekly Issue #247</h1>
+<h2 style="color: #666;">AI Trends for 2025</h2>
+<p>Hi there,</p>
+<p>Welcome to TechWeekly Issue #247!</p>
+<h3>This week's highlights:</h3>
+<ol>
+<li><strong>AI Trends Shaping 2025</strong> - The artificial intelligence landscape continues to evolve rapidly.</li>
+<li><strong>New Open Source Tools</strong> - A roundup of the most promising open source developer tools.</li>
+<li><strong>Cloud Computing Updates</strong> - Major cloud providers announced new services.</li>
+</ol>
+<p><a href="https://techweekly.com/issue/247">Read the full newsletter</a></p>
+<p>Best regards,<br>The TechWeekly Team</p>
+<hr>
+<p style="font-size: 12px; color: #999;"><a href="https://techweekly.com/unsubscribe?id=user123">Unsubscribe</a></p>
+</body>
+</html>
+
+--boundary_newsletter_247--

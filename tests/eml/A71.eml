@@ -1,0 +1,33 @@
+From: noreply@wellsfargo-securemail.info
+To: client@gmail.com
+Subject: Your online access has been locked
+Date: Fri, 19 Jun 2026 09:00:00 +0000
+Message-ID: <msg0071.2208@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0071"
+
+--bound0071
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Wells Fargo Customer,
+
+Your online banking access has been locked after 3 consecutive
+failed sign-in attempts.
+
+Unlock your access: http://wellsfargo-securemail.info/unlock?cust=WF9921
+
+For security, this link is valid for 1 hour only.
+
+Wells Fargo Digital Banking
+
+--bound0071
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Customer,</p>
+    <p>Your online banking access is <strong>locked</strong>.</p>
+    <p><a href="http://wellsfargo-securemail.info/unlock?cust=WF9921">Unlock now</a></p>
+    </body></html>
+
+--bound0071--

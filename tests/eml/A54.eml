@@ -1,0 +1,37 @@
+From: do-not-reply@spotify.com
+To: listener@gmail.com
+Subject: Your Spotify Wrapped 2025 is here
+Date: Tue, 02 Jun 2026 13:00:00 +0000
+Message-ID: <msg0054.1681@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0054"
+
+--bound0054
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Your 2025 Spotify Wrapped is ready! Here's a sneak peek:
+
+Top artist: Bad Bunny
+Top song: "Luna Nueva"
+Minutes listened: 38,420
+Top genre: Latin Pop
+
+See your full Wrapped: https://open.spotify.com/wrapped
+
+Spotify
+
+--bound0054
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Your Spotify Wrapped 2025:</p>
+    <ul><li>Top Artist: Bad Bunny</li>
+    <li>Top Song: "Luna Nueva"</li>
+    <li>Minutes: 38,420</li></ul>
+    <p><a href="https://open.spotify.com/wrapped">See full Wrapped</a></p>
+    </body></html>
+
+--bound0054--

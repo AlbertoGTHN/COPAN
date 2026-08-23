@@ -1,0 +1,35 @@
+From: hr@acmecorp.com
+To: employee@acmecorp.com
+Subject: Annual performance review — scheduling
+Date: Mon, 27 Apr 2026 12:00:00 +0000
+Message-ID: <msg0018.565@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0018"
+
+--bound0018
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Team,
+
+It's that time of year. Annual performance reviews will take place
+between April 28 and May 9, 2026.
+
+Please book a 45-minute slot with your manager using the link in
+your calendar invite. Self-assessment forms are due by April 25.
+
+Questions? Contact hr@acmecorp.com.
+
+HR Department
+
+--bound0018
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi Team,</p>
+    <p>Annual performance reviews: <strong>April 28 – May 9, 2026</strong>.</p>
+    <ul><li>Book a 45-min slot with your manager</li>
+    <li>Self-assessment due by April 25</li></ul>
+    <p>Questions: hr@acmecorp.com</p></body></html>
+
+--bound0018--

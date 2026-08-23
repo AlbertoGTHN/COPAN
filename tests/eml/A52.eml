@@ -1,0 +1,38 @@
+From: no-reply@airbnb.com
+To: traveler@gmail.com
+Subject: Booking confirmed: Cozy Studio in Medellín
+Date: Sun, 31 May 2026 11:00:00 +0000
+Message-ID: <msg0052.1619@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0052"
+
+--bound0052
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Roberto,
+
+Your booking is confirmed!
+
+Property: Cozy Studio near El Poblado
+Check-in: May 3, 2026
+Check-out: May 8, 2026
+Host: Isabella M.
+Confirmation: HMQK93AB
+
+View booking: https://www.airbnb.com/trips/
+
+Have a great trip!
+Airbnb
+
+--bound0052
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi Roberto,</p>
+    <p>Booking confirmed: <strong>Cozy Studio near El Poblado</strong></p>
+    <p>May 3–8, 2026 | Confirmation: HMQK93AB</p>
+    <p><a href="https://www.airbnb.com/trips/">View booking</a></p>
+    </body></html>
+
+--bound0052--

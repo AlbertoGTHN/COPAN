@@ -1,0 +1,70 @@
+Received: from vps-node42.hostingprovider.xyz (unknown [45.33.100.200])
+        by mx.example.com with ESMTP id brand001
+        for <user@example.com>; Thu, 18 Jan 2025 11:45:00 -0500
+Received: from localhost (localhost [127.0.0.1])
+        by vps-node42.hostingprovider.xyz with ESMTP id local999
+        for <user@example.com>; Thu, 18 Jan 2025 11:44:58 -0500
+Authentication-Results: mx.example.com;
+       dkim=none;
+       spf=softfail (domain of noreply@micros0ft-security.top does not designate 45.33.100.200 as permitted sender) smtp.mailfrom=noreply@micros0ft-security.top;
+       dmarc=fail (p=REJECT dis=NONE) header.from=micros0ft-security.top
+From: Microsoft Account Team <noreply@micros0ft-security.top>
+To: user@example.com
+Subject: [Action Required] Unusual sign-in activity on your Microsoft account
+Date: Thu, 18 Jan 2025 11:45:00 -0500
+Message-ID: <ms-alert-99281@micros0ft-security.top>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary_brand_spoof"
+
+--boundary_brand_spoof
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We detected unusual sign-in activity on your Microsoft account.
+
+Sign-in details:
+- Country/region: Russia
+- IP address: 185.220.101.45
+- Date: January 18, 2025 at 3:22 AM
+- Browser: Firefox (Linux)
+
+If this wasn't you, please secure your account immediately by clicking the link below:
+
+https://micr0soft-account-verify.xyz/signin/recovery?token=eyJ0eXAiOiJ&ref=security
+
+If you recognize this activity, you can ignore this message.
+
+Thanks,
+The Microsoft Account Team
+
+This is a mandatory service communication from Microsoft Corporation.
+One Microsoft Way, Redmond, WA 98052
+
+--boundary_brand_spoof
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body style="font-family: Segoe UI, Arial, sans-serif; margin: 0; padding: 0;">
+<table width="100%" style="max-width: 600px; margin: 0 auto;">
+<tr><td style="padding: 20px; background: #f3f3f3;">
+<img src="https://micr0soft-account-verify.xyz/assets/ms-logo.png" alt="Microsoft" width="120">
+</td></tr>
+<tr><td style="padding: 30px;">
+<h2>Unusual sign-in activity</h2>
+<p>We detected unusual sign-in activity on your Microsoft account.</p>
+<table style="background: #f8f8f8; padding: 15px; width: 100%; margin: 15px 0;">
+<tr><td><strong>Country/region:</strong></td><td>Russia</td></tr>
+<tr><td><strong>IP address:</strong></td><td>185.220.101.45</td></tr>
+<tr><td><strong>Date:</strong></td><td>January 18, 2025</td></tr>
+<tr><td><strong>Browser:</strong></td><td>Firefox (Linux)</td></tr>
+</table>
+<p>If this wasn't you, please secure your account:</p>
+<p><a href="https://micr0soft-account-verify.xyz/signin/recovery?token=eyJ0eXAiOiJ" style="background: #0078d4; color: white; padding: 12px 24px; text-decoration: none; display: inline-block;">Review recent activity</a></p>
+<p style="font-size: 12px; color: #666;">This is a mandatory service communication. Microsoft Corporation, One Microsoft Way, Redmond, WA 98052</p>
+</td></tr>
+</table>
+</body>
+</html>
+
+--boundary_brand_spoof--

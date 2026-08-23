@@ -1,0 +1,34 @@
+From: admin@adobe-subscription-alert.com
+To: designer@outlook.com
+Subject: Adobe Creative Cloud subscription paused
+Date: Wed, 17 Jun 2026 14:00:00 +0000
+Message-ID: <msg0069.2146@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0069"
+
+--bound0069
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Your Adobe Creative Cloud subscription has been paused due to a
+payment failure. To restore access to Photoshop, Illustrator, and
+other apps, please update your payment method.
+
+Update payment: http://adobe-subscription-alert.com/billing?uid=ADB2026x
+
+Your files and settings are safe but inaccessible until resolved.
+
+Adobe Customer Care
+
+--bound0069
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi,</p>
+    <p>Your Adobe CC subscription is <strong>paused</strong>.</p>
+    <p><a href="http://adobe-subscription-alert.com/billing?uid=ADB2026x">Update payment method</a></p>
+    </body></html>
+
+--bound0069--

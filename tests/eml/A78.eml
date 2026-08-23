@@ -1,0 +1,38 @@
+From: manager@acmecorp.com
+To: employee@acmecorp.com
+Subject: Q1 team performance — well done
+Date: Fri, 26 Jun 2026 09:00:00 +0000
+Message-ID: <msg0078.2425@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0078"
+
+--bound0078
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi team,
+
+I wanted to take a moment to recognize the incredible work everyone
+put in during Q1. We shipped 3 major features ahead of schedule,
+reduced our bug backlog by 40%, and received our highest NPS from
+customers in company history.
+
+Let's celebrate at the team lunch on Friday (April 18, 12:30 PM).
+The company is picking up the tab.
+
+Thank you,
+James
+
+--bound0078
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi team,</p>
+    <p>Fantastic Q1! Highlights:</p>
+    <ul><li>3 major features shipped early</li>
+    <li>Bug backlog reduced 40%</li>
+    <li>Highest-ever customer NPS</li></ul>
+    <p>Team lunch Friday April 18, 12:30 PM. Company's treat.</p>
+    </body></html>
+
+--bound0078--

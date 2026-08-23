@@ -1,0 +1,34 @@
+From: noreply@calendar.google.com
+To: professional@gmail.com
+Subject: Reminder: Dentist appointment tomorrow at 10 AM
+Date: Wed, 13 May 2026 14:00:00 +0000
+Message-ID: <msg0034.1061@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0034"
+
+--bound0034
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+This is a reminder for an event in your Google Calendar.
+
+Event: Dentist Appointment
+When: April 16, 2026, 10:00 AM – 11:00 AM
+Where: Dr. Martinez Dental Clinic, 452 Oak Street
+
+View in Google Calendar: https://calendar.google.com/calendar/r
+
+Google Calendar
+
+--bound0034
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Reminder from Google Calendar:</p>
+    <p><strong>Dentist Appointment</strong><br>
+    April 16, 2026, 10:00–11:00 AM<br>
+    Dr. Martinez Dental Clinic, 452 Oak Street</p>
+    <p><a href="https://calendar.google.com/calendar/r">View in Calendar</a></p>
+    </body></html>
+
+--bound0034--

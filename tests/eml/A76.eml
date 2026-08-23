@@ -1,0 +1,35 @@
+From: alerts@pagerduty.com
+To: oncall@company.com
+Subject: [PagerDuty] CRITICAL: API response time > 5s
+Date: Wed, 24 Jun 2026 14:00:00 +0000
+Message-ID: <msg0076.2363@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0076"
+
+--bound0076
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+CRITICAL alert triggered!
+
+Service: Production API Gateway
+Alert: Average response time exceeded 5000ms
+Triggered: April 15, 2026, 09:14 AM UTC
+Incident: INC-2026-04-8821
+
+Acknowledge: https://acmecorp.pagerduty.com/incidents/INC20260408821
+
+PagerDuty On-Call
+
+--bound0076
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body style="background:#fff2f2">
+    <p><strong>CRITICAL ALERT</strong></p>
+    <p>Production API Gateway: response time &gt; 5s</p>
+    <p>Incident: INC-2026-04-8821</p>
+    <p><a href="https://acmecorp.pagerduty.com/incidents/INC20260408821">Acknowledge</a></p>
+    </body></html>
+
+--bound0076--

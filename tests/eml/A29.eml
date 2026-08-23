@@ -1,0 +1,33 @@
+From: support@fedex-delivery-status.co
+To: customer@outlook.com
+Subject: Delivery failed — reschedule required
+Date: Fri, 08 May 2026 09:00:00 +0000
+Message-ID: <msg0029.906@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0029"
+
+--bound0029
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Customer,
+
+Our courier was unable to deliver your parcel today. To reschedule
+delivery you must confirm your address and pay a redelivery fee of $2.99.
+
+Reschedule: http://fedex-delivery-status.co/reschedule?id=FX9928X
+
+If not rescheduled within 48 hours the parcel will be returned.
+
+FedEx Delivery Services
+
+--bound0029
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Customer,</p>
+    <p>Delivery failed. Pay <strong>$2.99</strong> redelivery fee to reschedule.</p>
+    <p><a href="http://fedex-delivery-status.co/reschedule?id=FX9928X">Reschedule now</a></p>
+    </body></html>
+
+--bound0029--

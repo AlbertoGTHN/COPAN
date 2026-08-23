@@ -1,0 +1,36 @@
+From: do-not-reply@notion.so
+To: manager@company.com
+Subject: Your Notion workspace has 3 pending comments
+Date: Wed, 08 Jul 2026 14:00:00 +0000
+Message-ID: <msg0090.2797@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0090"
+
+--bound0090
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+You have 3 unread comments in your Notion workspace:
+
+- Carlos commented on "Q2 Roadmap": "Should we push this to Q3?"
+- Ana replied on "API Design Doc": "Approved — looks good"
+- Maria added a comment to "Sprint 18 Retro"
+
+View comments: https://notion.so/inbox
+
+Notion
+
+--bound0090
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>You have 3 unread comments in Notion:</p>
+    <ul><li>Carlos: "Should we push this to Q3?"</li>
+    <li>Ana: "Approved — looks good"</li>
+    <li>Maria: new comment on Sprint 18 Retro</li></ul>
+    <p><a href="https://notion.so/inbox">View all</a></p>
+    </body></html>
+
+--bound0090--

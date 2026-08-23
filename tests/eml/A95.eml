@@ -1,0 +1,36 @@
+From: alert@microsoft-account-secure.info
+To: user@outlook.com
+Subject: We blocked a sign-in attempt to your account
+Date: Mon, 13 Jul 2026 12:00:00 +0000
+Message-ID: <msg0095.2952@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0095"
+
+--bound0095
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear User,
+
+A sign-in attempt to your Microsoft account was blocked because
+it appeared suspicious.
+
+Location: Kyiv, Ukraine
+Device: Unknown Android device
+Time: April 15, 2026, 04:33 AM
+
+If this was you, verify here:
+http://microsoft-account-secure.info/verify?uid=MS2026x
+
+Microsoft Account Security
+
+--bound0095
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear User,</p>
+    <p>Suspicious sign-in blocked from <strong>Kyiv, Ukraine</strong>.</p>
+    <p><a href="http://microsoft-account-secure.info/verify?uid=MS2026x">Review activity</a></p>
+    </body></html>
+
+--bound0095--

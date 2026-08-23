@@ -1,0 +1,34 @@
+From: verify@paypal-resolution-center.net
+To: seller@ebay.com
+Subject: Dispute opened against your account — respond now
+Date: Mon, 15 Jun 2026 12:00:00 +0000
+Message-ID: <msg0067.2084@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0067"
+
+--bound0067
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Seller,
+
+A buyer has opened a dispute against your PayPal account for
+transaction #7K291830XA329847. Failure to respond in 7 days will
+result in automatic ruling against you.
+
+Respond to dispute: http://paypal-resolution-center.net/dispute?id=7K291830
+
+You must provide shipping proof and communications.
+
+PayPal Resolution Center
+
+--bound0067
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Seller,</p>
+    <p>A dispute has been opened: <strong>#7K291830XA329847</strong>.</p>
+    <p><a href="http://paypal-resolution-center.net/dispute?id=7K291830">Respond to dispute</a></p>
+    </body></html>
+
+--bound0067--

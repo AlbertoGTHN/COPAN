@@ -1,0 +1,36 @@
+From: no-reply@heroku.com
+To: developer@company.com
+Subject: Deploy successful: core-api v2.4.1
+Date: Tue, 30 Jun 2026 13:00:00 +0000
+Message-ID: <msg0082.2549@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0082"
+
+--bound0082
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Your Heroku app deploy was successful.
+
+App: core-api-prod
+Version: v2.4.1
+Build: #182
+Duration: 3m 22s
+Released: April 15, 2026, 09:02 AM UTC
+
+Dashboard: https://dashboard.heroku.com/apps/core-api-prod
+
+Heroku
+
+--bound0082
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Deploy successful!</p>
+    <p>App: core-api-prod | Version: v2.4.1 | Build #182</p>
+    <p><a href="https://dashboard.heroku.com/apps/core-api-prod">View dashboard</a></p>
+    </body></html>
+
+--bound0082--

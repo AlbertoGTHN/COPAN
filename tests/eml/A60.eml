@@ -1,0 +1,34 @@
+From: support@aws.amazon.com
+To: devops@company.com
+Subject: AWS Cost Explorer: Your bill is available
+Date: Mon, 08 Jun 2026 12:00:00 +0000
+Message-ID: <msg0060.1867@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0060"
+
+--bound0060
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Your AWS bill for March 2026 is now available.
+
+Total charges: $2,841.37
+Account: 112233445566
+Billing period: March 1–31, 2026
+
+View detailed breakdown: https://console.aws.amazon.com/billing/
+
+Amazon Web Services
+
+--bound0060
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Your AWS bill for March 2026:</p>
+    <p>Total: <strong>$2,841.37</strong> | Account: 112233445566</p>
+    <p><a href="https://console.aws.amazon.com/billing/">View breakdown</a></p>
+    </body></html>
+
+--bound0060--

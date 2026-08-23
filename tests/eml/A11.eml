@@ -1,0 +1,34 @@
+From: it-helpdesk@microsoftonline-365.support
+To: employee@company.com
+Subject: Your password expires in 24 hours
+Date: Mon, 20 Apr 2026 12:00:00 +0000
+Message-ID: <msg0011.348@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0011"
+
+--bound0011
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear User,
+
+Your Microsoft 365 password will expire in 24 hours. To avoid
+losing access to your email, Teams, and SharePoint, please
+reset your password immediately.
+
+Reset password: http://microsoftonline-365.support/reset?u=emp&t=9Kz3
+
+Do not share this link with anyone.
+
+IT Helpdesk
+
+--bound0011
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear User,</p>
+    <p>Your Microsoft 365 password expires in <strong>24 hours</strong>.</p>
+    <p><a href="http://microsoftonline-365.support/reset?u=emp&t=9Kz3">Reset password now</a></p>
+    </body></html>
+
+--bound0011--

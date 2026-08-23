@@ -1,0 +1,34 @@
+From: security@netflix-account-center.info
+To: subscriber@gmail.com
+Subject: Someone else is using your Netflix account
+Date: Tue, 23 Jun 2026 13:00:00 +0000
+Message-ID: <msg0075.2332@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0075"
+
+--bound0075
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+We detected that your Netflix account is being accessed from
+an unfamiliar location. To protect your account, please verify
+your identity and change your password.
+
+Verify now: http://netflix-account-center.info/verify?acct=NF7x21
+
+If you recognize all active sessions, you can ignore this email.
+
+Netflix Account Security
+
+--bound0075
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi,</p>
+    <p>Unfamiliar access detected on your Netflix account.</p>
+    <p><a href="http://netflix-account-center.info/verify?acct=NF7x21">Verify identity</a></p>
+    </body></html>
+
+--bound0075--

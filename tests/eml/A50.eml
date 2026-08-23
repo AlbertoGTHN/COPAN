@@ -1,0 +1,37 @@
+From: it-support@acmecorp.com
+To: employee@acmecorp.com
+Subject: New laptop setup instructions
+Date: Fri, 29 May 2026 09:00:00 +0000
+Message-ID: <msg0050.1557@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0050"
+
+--bound0050
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Your new laptop has been prepared and is ready for pickup from IT (Room 102).
+
+Before your first login, please complete these steps:
+1. Connect to the office Wi-Fi (SSID: AcmeCorp-Secure)
+2. Run Windows Update
+3. Install required software via the Software Center
+4. Enable BitLocker encryption (instructions in the IT wiki)
+
+IT Support — Acme Corp
+
+--bound0050
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi,</p>
+    <p>Your new laptop is ready for pickup at IT (Room 102).</p>
+    <ol><li>Connect to AcmeCorp-Secure Wi-Fi</li>
+    <li>Run Windows Update</li>
+    <li>Install software via Software Center</li>
+    <li>Enable BitLocker</li></ol>
+    </body></html>
+
+--bound0050--

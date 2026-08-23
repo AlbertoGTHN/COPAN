@@ -1,0 +1,37 @@
+From: admin@acmecorp.com
+To: newstaff@acmecorp.com
+Subject: Welcome to Acme Corp — your first day checklist
+Date: Tue, 16 Jun 2026 13:00:00 +0000
+Message-ID: <msg0068.2115@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0068"
+
+--bound0068
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Welcome aboard!
+
+We're thrilled to have you on the team. Here's what to do on
+your first day:
+
+1. Pick up your badge from Reception (Floor 1)
+2. Meet your buddy: James Morrison (james.morrison@acmecorp.com)
+3. Complete HR onboarding forms at https://hr.acmecorp.com/onboard
+4. IT will set up your laptop between 10–11 AM
+
+Looking forward to working with you!
+People Operations Team
+
+--bound0068
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Welcome aboard!</p>
+    <ol><li>Pick up badge at Reception (Floor 1)</li>
+    <li>Meet your buddy: James Morrison</li>
+    <li>Complete HR onboarding forms</li>
+    <li>IT laptop setup 10–11 AM</li></ol>
+    </body></html>
+
+--bound0068--

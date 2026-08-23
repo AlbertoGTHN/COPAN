@@ -1,0 +1,37 @@
+From: newsletter@thenewstack.io
+To: reader@gmail.com
+Subject: This week in cloud-native: eBPF, WASM, and AI inference at the edge
+Date: Sun, 19 Apr 2026 11:00:00 +0000
+Message-ID: <msg0010.317@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0010"
+
+--bound0010
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi there,
+
+Here's your weekly digest from The New Stack:
+
+- eBPF observability tools hit production maturity
+- WebAssembly component model reaches 1.0
+- Running LLM inference on ARM edge nodes: a benchmark
+- Kubernetes 1.31 release notes summary
+
+Read more: https://thenewstack.io/newsletter/2026-04-14
+
+Unsubscribe at any time.
+
+--bound0010
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi there,</p><ul>
+    <li>eBPF observability tools hit production maturity</li>
+    <li>WebAssembly component model reaches 1.0</li>
+    <li>Running LLM inference on ARM edge nodes</li>
+    <li>Kubernetes 1.31 release notes summary</li>
+    </ul><p><a href="https://thenewstack.io/newsletter/2026-04-14">Read more</a></p></body></html>
+
+--bound0010--

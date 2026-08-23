@@ -1,0 +1,35 @@
+From: j.morrison@acmecorp.com
+To: team@acmecorp.com
+Subject: Agenda for Thursday team sync
+Date: Sat, 11 Apr 2026 10:00:00 +0000
+Message-ID: <msg0002.69@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0002"
+
+--bound0002
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi everyone,
+
+Here's the agenda for our Thursday 10am sync:
+1. Q2 roadmap review
+2. Sprint retrospective highlights
+3. Blockers and dependencies
+4. AOB
+
+Room: Conference B / Zoom fallback link in calendar invite.
+
+See you then,
+James
+
+--bound0002
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi everyone,</p><ul><li>Q2 roadmap review</li>
+    <li>Sprint retrospective highlights</li><li>Blockers and dependencies</li>
+    <li>AOB</li></ul><p>Room: Conference B / Zoom fallback in calendar invite.</p>
+    <p>James</p></body></html>
+
+--bound0002--

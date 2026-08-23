@@ -1,0 +1,33 @@
+From: alerts@bankofamerica-secure.support
+To: client@hotmail.com
+Subject: Important: Suspicious login attempt detected
+Date: Sun, 12 Apr 2026 11:00:00 +0000
+Message-ID: <msg0003.100@mailhost.internal>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bound0003"
+
+--bound0003
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Valued Client,
+
+A login attempt from an unrecognized device was detected on your account.
+If this was not you, please secure your account immediately:
+
+http://bankofamerica-secure.support/lock?id=8821cc
+
+Your session will expire in 15 minutes.
+
+Online Banking Security
+
+--bound0003
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Dear Valued Client,</p>
+    <p>A login attempt from an <strong>unrecognized device</strong> was detected.</p>
+    <p><a href="http://bankofamerica-secure.support/lock?id=8821cc">Secure your account now</a></p>
+    <p>Your session expires in 15 minutes.</p></body></html>
+
+--bound0003--
